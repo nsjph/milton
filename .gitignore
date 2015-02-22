@@ -1,4 +1,3 @@
-*.FASL
-*.fasl
-*.lisp-temp
 config.json
+milton.tgz
+*~
